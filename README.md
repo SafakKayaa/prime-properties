@@ -1,2 +1,2 @@
-# prime properties
+# prime-properties
  
